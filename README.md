@@ -1,4 +1,4 @@
-# AlgoCheck
+# What's up
 hello guys from algopython
 *it's test of GitHub functiomal*
 # please don't hate me
