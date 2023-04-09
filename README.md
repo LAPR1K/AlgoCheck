@@ -1,8 +1,8 @@
 # What's up
 hello guys from algopython
 *it's test of GitHub functiomal*
-# please don't hate me
-** I'm Full stack senior developer **
+please don't hate me
+**I'm Full stack senior developer**
 i'm gratefull to see you
 
 # AlgoCheck
