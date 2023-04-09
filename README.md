@@ -7,7 +7,7 @@ i'm gratefull to see you
 
 # AlgoCheck
 It's my student project
-I create that becouse that need for my develop courses
+I create that becouse that need for my develop courses.
 The game can:
 1) You can move main character
 2) You can pick up coins
