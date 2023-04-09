@@ -6,7 +6,7 @@ hello guys from algopython
 i'm gratefull to see you
 
 # AlgoCheck
-It's my student project
+It's my student project witch
 I create that becouse that need for my develop courses.
 ## The game can:
 1) You can move main character
